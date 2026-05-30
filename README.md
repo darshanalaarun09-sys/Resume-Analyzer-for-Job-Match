@@ -51,7 +51,7 @@ Recognizes technology equivalents:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/RAVULAAJAY/Hire-Me.git
+git clone https:https://github.com/darshanalaarun09-sys/Resume-Analyzer-for-Job-Match.git
 cd Hire-Me
 ```
 
@@ -409,21 +409,7 @@ npm install
 - ✅ Supports files up to 10MB
 - ✅ Deterministic caching for identical inputs
 
----
-
-## 📝 License
-
-MIT License - Free to use for personal and commercial projects
-
----
-
 ## 👨‍💻 Author
-
-**RAVULA AAJAY**
-- GitHub: [@RAVULAAJAY](https://github.com/RAVULAAJAY)
-- Project: [Hire-Me](https://github.com/RAVULAAJAY/Hire-Me)
-
----
 
 ## 🤝 Contributing
 
