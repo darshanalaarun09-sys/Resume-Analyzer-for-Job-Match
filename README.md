@@ -353,7 +353,7 @@ Responsibilities:
 5. Build command: `cd backend && npm install`
 6. Start command: `npm start`
 7. Set environment variables if needed
-8. CORS is configured for `https://hire-m9h63ouym-ravulaajays-projects.vercel.app`
+8. CORS is configured for ``
 
 ### Deploy Frontend to Vercel
 
@@ -452,7 +452,7 @@ Need help?
 If this project helped you, please consider giving it a **star** on GitHub!
 
 ```
-https://github.com/RAVULAAJAY/Hire-Me
+https://github.com/darshanalaarun09-sys/Resume-Analyzer-for-Job-Match.git
 ```
 
 ---
