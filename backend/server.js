@@ -10,7 +10,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const allowedOrigins = ["https://hire-m9h63ouym-ravulaajays-projects.vercel.app"];
+const allowedOrigins = ["https://resume-analyzer-for-job-match.vercel.app"];
 
 const isLocalOrigin = (origin) => {
   return Boolean(origin) && /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/i.test(origin);

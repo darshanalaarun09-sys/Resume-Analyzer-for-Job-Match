@@ -13,7 +13,7 @@ function App() {
   const acceptedFormatsText = "PDF or DOCX";
   const apiBaseUrl = import.meta.env.DEV
     ? "http://localhost:5000"
-    : "https://hire-me-1fsk.onrender.com";
+    : "https://resume-analyzer-for-job-match.onrender.com";
 
   const buildApiUrl = (path) => {
     if (!apiBaseUrl) {
