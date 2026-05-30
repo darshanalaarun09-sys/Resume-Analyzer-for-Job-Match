@@ -1,4 +1,4 @@
-# 🎯 Hire-Me: AI-Powered ATS Resume Analyzer
+# 🎯 AI-Powered ATS Resume Analyzer
 
 > **Professional Resume Scoring & Job Match Analysis Tool**
 > 
